@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: rgba(82, 82, 82, 0.658);
+    width: 100%;
+}
+#header-img{
+    width: 100%;
+}
+.colored-text{
+    color: brown;
+}
+.flow{
+    width: 450px;
+    height: 200px;
+}
+footer{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
